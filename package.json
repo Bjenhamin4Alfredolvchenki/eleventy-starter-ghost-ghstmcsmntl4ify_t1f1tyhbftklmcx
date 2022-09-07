@@ -33,7 +33,7 @@
     "@11ty/eleventy": "^0.11.0",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@tryghost/content-api": "^1.4.4",
-    "@tryghost/helpers": "^1.1.6",
+    "@tryghost/helpers": "^1.1.73",
     "clean-css": "^4.2.1",
     "cross-env": "^7.0.0",
     "dotenv": "^8.0.0",
